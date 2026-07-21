@@ -53,6 +53,7 @@ M. di Angelo and G. Salzer, "[A Survey of Tools for Analyzing Ethereum Smart Con
 + [Aderyn](https://github.com/Cyfrin/aderyn)
 + [AChecker](https://github.com/DependableSystemsLab/AChecker)
 + [Clairvoyance](https://github.com/ToolmanInside/readthedocs/blob/master/docs/index.rst)
++ [OpenClaw Audit](https://github.com/juan23z/openclaw-audit)
 
 ## Symbolic Execution
 <a id="Symbolic-Execution"></a>
